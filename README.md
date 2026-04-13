@@ -1,4 +1,4 @@
-# cathtracker_app
+# Apollo
 
 A new Flutter project.
 
