@@ -4,14 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Apollo is a dedicated Flutter application built to streamline the tracking of post-catheterization complications in the OPD.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Core Clinical Features:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Longitudinal Tracking: Monitor the progression of post-cath complications (hematomas, pseudoaneurysms, etc.) across multiple patient visits.
+
+Visual Documentation: Securely upload and review progressive images of the complication site directly within the patient's file.
+
+Automated Workflow: Built-in scheduling and daily dashboard reminders ensure no patient follow-up falls through the cracks until the complication is fully resolved.
+
